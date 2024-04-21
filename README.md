@@ -13,11 +13,11 @@
 3. Hibernate ORM Framework
 4. Console Interface
 ## Technologies Used:
-  Java
-  MySQL
-  Hibernate ORM Framework
-  JDBC
-  Maven
+  *Java
+  *MySQL
+  *Hibernate ORM Framework
+  *JDBC
+  *Maven
 ## Conclusion:
 	The project demonstrates proficiency in java backend development,database management
 	and ORM implementation,showcasing the ability to build scalable applications effectively.
