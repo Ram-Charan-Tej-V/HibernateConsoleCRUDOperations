@@ -1,9 +1,11 @@
 # HibernateConsoleCRUDOperations
 ## Overview:
-	Developed a Java console application integrating MySQL database with Hibernate ORM framework 
+	
+ Developed a Java console application integrating MySQL database with Hibernate ORM framework 
 	to execute CRUD (Create, Read, Update, Delete) operations efficiently.
 ## Description:
-	The project aimed to create a console-based Java application for seamless data management using
+	
+ The project aimed to create a console-based Java application for seamless data management using
   	MySQL database and Hibernate ORM framework. Key functionalities included CRUD operations,
   	user-friendly console interface, and robust error handling. Challenges addressed encompassed 
 	ORM mapping complexities and query optimization.	
@@ -19,5 +21,6 @@
 4. JDBC
 5. Maven
 ## Conclusion:
-	The project demonstrates proficiency in java backend development,database management
+	
+ The project demonstrates proficiency in java backend development,database management
 	and ORM implementation,showcasing the ability to build scalable applications effectively.
